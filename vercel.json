@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/v2/enter.py": {
+      "runtime": "python3.12"
+    }
+  }
+}
